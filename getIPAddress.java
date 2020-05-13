@@ -2,7 +2,7 @@ import java.net.InetAddress;
 
 class getIPAddress
 {
-	public static void main(Sring args[]) throws exception
+	public static void main(String args[]) throws exception
 	{
 		InetAddress IP = InetAddress.getLocalHost();
 		
