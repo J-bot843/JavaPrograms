@@ -1,4 +1,4 @@
-import java.util.random
+import java.util.random;
 
 public class generateRanNum {
 	public static void main(String args[])
